@@ -11,14 +11,6 @@ const routes = [
     label: 'Resume',
     path: '/resume',
   },
-  {
-    label: 'Projects',
-    path: '/projects',
-  },
-  {
-    label: 'Stats',
-    path: '/stats',
-  },
 ];
 
 // Websites Navbar, displays routes defined in 'src/data/routes'
